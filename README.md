@@ -1,1 +1,2 @@
-[Uploading eventora-website-github.zip…]()
+https://eventora11.netlify.app
+
